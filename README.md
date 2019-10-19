@@ -1,2 +1,2 @@
 # ES_Theme_push-a-v
-vertical ES theme, feel free to use in your projects
+vertical 320x240px ES theme, feel free to use in your projects
